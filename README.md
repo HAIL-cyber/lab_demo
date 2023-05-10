@@ -2,7 +2,7 @@
 this repo will contain demonstration about git branches
 
 # step 1 : create local repository [demo] -> cd demo
-# step 2 : initialiez the local repostiroy as git repository -> git init
+# step 2 : initialize the local repostiroy as git repository -> git init
 # step 3 : clone the remote repository to local repository -> git clone [remote:url]
 # step 4 : create the required file structure 
     master -> sub
